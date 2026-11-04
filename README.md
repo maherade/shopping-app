@@ -1,19 +1,19 @@
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 19 45 PM" src="https://github.com/user-attachments/assets/1baa8a85-f3ce-4a2a-b418-569bb4acb0bd" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 19 02 PM" src="https://github.com/user-attachments/assets/23a580db-8a7e-4c71-ba05-bf6aa4cbe470" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 53 PM" src="https://github.com/user-attachments/assets/7a919df1-8352-48c2-9201-cf700e12ecbe" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 52 PM" src="https://github.com/user-attachments/assets/8a97acd0-d0e6-427d-803d-c74b290aae9e" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 46 PM" src="https://github.com/user-attachments/assets/106807da-c0af-4b36-8e8c-ee27b3ce817c" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 41 PM" src="https://github.com/user-attachments/assets/3b3eacb8-e578-4da5-8c21-715a530acffa" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 29 PM" src="https://github.com/user-attachments/assets/83684745-59b9-4961-bc1b-26e9a8ead0af" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 24 PM" src="https://github.com/user-attachments/assets/3d67d391-a57c-4713-ad8a-2e98b5e640e9" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 19 PM" src="https://github.com/user-attachments/assets/86d37a96-714c-4078-a4d0-d35901a13771" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 17 14 PM" src="https://github.com/user-attachments/assets/caa4feac-cea9-4652-ab1b-b0f67f11d2ab" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 17 09 PM" src="https://github.com/user-attachments/assets/544662dc-f5e9-4a53-a01c-e22386e32e54" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 16 54 PM" src="https://github.com/user-attachments/assets/a789cd2e-15ba-404b-a196-67847edd26d1" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 16 33 PM" src="https://github.com/user-attachments/assets/ed60d13a-091a-446d-8fe2-d1<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 20 12 PM" src="https://github.com/user-attachments/assets/6fc5e94f-761e-4ed7-9ff0-5ff9a038746b" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 20 02 PM" src="https://github.com/user-attachments/assets/84bb1cdc-33ca-40f9-8cf9-2bd6f9cc3070" />
-<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 19 53 PM" src="https://github.com/user-attachments/assets/f67a44dc-60f6-491c-bbec-10c2b8beb54b" />
-7f9e9fd11f" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 16 33 PM" src="https://github.com/user-attachments/assets/b6cfcba4-881a-4177-987e-f1eecfd49ec1" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 26 39 PM" src="https://github.com/user-attachments/assets/137f18ab-0127-4d94-8d85-a3a40a55bb4d" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 17 09 PM" src="https://github.com/user-attachments/assets/156b24e3-861c-472b-bbf1-552542911dcd" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 17 14 PM" src="https://github.com/user-attachments/assets/8e834aac-2456-4c29-b16a-11e38b76bede" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 19 PM" src="https://github.com/user-attachments/assets/294dc9f5-245f-4a90-863d-2516572ad524" />
+
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 24 PM" src="https://github.com/user-attachments/assets/2ddd3773-4da0-4706-895c-c5faf158f5b4" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 29 PM" src="https://github.com/user-attachments/assets/30da291f-cf7a-4b0a-9e0a-a68970347d6c" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 20 12 PM" src="https://github.com/user-attachments/assets/a8facf8b-3dc6-42a5-924b-b16481b7bcc5" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 41 PM" src="https://github.com/user-attachments/assets/126508d8-e615-4310-b56e-66938e9a6abe" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 46 PM" src="https://github.com/user-attachments/assets/d6589ffc-00dc-4e49-8598-967c1c2e870a" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 53 PM" src="https://github.com/user-attachments/assets/23cc9b5a-8b5d-4f30-85c2-edb905a3237b" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 19 02 PM" src="https://github.com/user-attachments/assets/7e11d867-76ba-4feb-bc63-c536c9e9b366" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 19 53 PM" src="https://github.com/user-attachments/assets/6262ce12-fbb5-4b80-9b92-8464a06f284b" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 20 02 PM" src="https://github.com/user-attachments/assets/3d2dd466-c043-450c-bee6-1166f66023d7" />
+
 
 
 # Shopping App
