@@ -1,3 +1,21 @@
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 19 45 PM" src="https://github.com/user-attachments/assets/1baa8a85-f3ce-4a2a-b418-569bb4acb0bd" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 19 02 PM" src="https://github.com/user-attachments/assets/23a580db-8a7e-4c71-ba05-bf6aa4cbe470" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 53 PM" src="https://github.com/user-attachments/assets/7a919df1-8352-48c2-9201-cf700e12ecbe" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 52 PM" src="https://github.com/user-attachments/assets/8a97acd0-d0e6-427d-803d-c74b290aae9e" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 46 PM" src="https://github.com/user-attachments/assets/106807da-c0af-4b36-8e8c-ee27b3ce817c" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 41 PM" src="https://github.com/user-attachments/assets/3b3eacb8-e578-4da5-8c21-715a530acffa" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 29 PM" src="https://github.com/user-attachments/assets/83684745-59b9-4961-bc1b-26e9a8ead0af" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 24 PM" src="https://github.com/user-attachments/assets/3d67d391-a57c-4713-ad8a-2e98b5e640e9" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 18 19 PM" src="https://github.com/user-attachments/assets/86d37a96-714c-4078-a4d0-d35901a13771" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 17 14 PM" src="https://github.com/user-attachments/assets/caa4feac-cea9-4652-ab1b-b0f67f11d2ab" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 17 09 PM" src="https://github.com/user-attachments/assets/544662dc-f5e9-4a53-a01c-e22386e32e54" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 16 54 PM" src="https://github.com/user-attachments/assets/a789cd2e-15ba-404b-a196-67847edd26d1" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 16 33 PM" src="https://github.com/user-attachments/assets/ed60d13a-091a-446d-8fe2-d1<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 20 12 PM" src="https://github.com/user-attachments/assets/6fc5e94f-761e-4ed7-9ff0-5ff9a038746b" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 20 02 PM" src="https://github.com/user-attachments/assets/84bb1cdc-33ca-40f9-8cf9-2bd6f9cc3070" />
+<img width="1320" height="2868" alt="Screenshot iPhone 17 Pro Max 04-11-2026 at 6 19 53 PM" src="https://github.com/user-attachments/assets/f67a44dc-60f6-491c-bbec-10c2b8beb54b" />
+7f9e9fd11f" />
+
+
 # Shopping App
 
 Shopping App is a Flutter shopping app for Android and iOS, built with the DummyJSON API. You can sign in, browse products, search or filter by category, and save items to a cart that stays available between sessions. Home, Cart, and Profile are accessible from the bottom navigation bar.
